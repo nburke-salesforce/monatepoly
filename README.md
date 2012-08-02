@@ -1,0 +1,4 @@
+monatepoly
+==========
+
+monopoly from commandline
